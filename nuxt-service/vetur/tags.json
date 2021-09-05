@@ -1,0 +1,11 @@
+{
+  "AddDoctor": {
+    "description": "Auto imported from components/addDoctor.vue"
+  },
+  "DoctorItem": {
+    "description": "Auto imported from components/doctorItem.vue"
+  },
+  "Mheader": {
+    "description": "Auto imported from components/mheader.vue"
+  }
+}
